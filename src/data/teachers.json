@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Jeanne Bødker Nissen",
+        "initials": "jebn",
+        "address": "Sønderhøj 30, 8260 Viby J",
+        "position": "Senior Lecturer",
+        "department": "Programmes within Digital Communication and Multimedia",
+        "image": "https://www.baaa.dk/media/le0azlgf/jeanne-b%C3%B8dker-nissen.jpg?width=800&height=450&rnd=133083188738330000"
+    },
+    {
+        "id": 2,
+        "name": "Christina Jacobsen",
+        "initials": "cjac",
+        "address": "Ringvej Syd 104, 8260 Viby J",
+        "position": "Lecturer",
+        "department": "Programmes within Digital Communication and Multimedia",
+        "image": "https://www.eaaa.dk/media/gwqpxel2/christina-jacobsen.jpg?width=800&height=450&rnd=133178433546230000"
+    },
+    {
+        "id": 3,
+        "name": "Morten Algy Bonderup",
+        "initials": "moab",
+        "address": "Ringvej Syd 104, 8260 Viby J",
+        "position": "Senior Lecturer",
+        "department": "Programmes within Digital Communication and Multimedia",
+        "image": "https://www.eaaa.dk/media/hi4lv5hw/morten-bonderup.jpg?width=800&height=450&rnd=133178433569200000"
+    }
+]
